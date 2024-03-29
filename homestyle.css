@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+}
+.header{
+    background-image:linear-gradient(rgba(231, 204, 204, 0.9),rgba(170, 191, 207, 0.2));
+    height:100px;
+    width:100%;
+}
+a{
+    color:black;
+    text-decoration:none;
+}
+.video1{
+    width:50%;
+    height:25px;
+    object-fit: cover;
+}
